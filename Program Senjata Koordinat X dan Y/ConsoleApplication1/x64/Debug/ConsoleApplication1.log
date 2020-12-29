@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): warning C4129: ' ': unrecognized character escape sequence
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(163): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(164): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(231): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(232): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(233): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(234): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(314): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(337): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(338): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(368): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(373): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(376): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(381): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(384): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(389): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(392): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(89): warning C4101: 'theta': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(89): warning C4101: 'D': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(89): warning C4101: 'tan_theta': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(89): warning C4101: 'kec1': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(194): warning C4101: 't2': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(301): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
